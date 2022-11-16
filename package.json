@@ -1,0 +1,22 @@
+{
+  "name": "fiat-shamir",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node inspect index.js",
+    "console": "node console.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pshenok/fiat-shamir"
+  },
+  "author": "pshenOk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshenok/fiat-shamir/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
